@@ -1,0 +1,127 @@
+{
+  "city": "Toshkent",
+  "city_key": "toshkent",
+  "date": "2026-04-06 14:54:25",
+  "forecast_days": 7,
+  "forecast": [
+    {
+      "date": "07.04",
+      "full_date": "07.04.2026",
+      "weekday": "Seshanba",
+      "weekday_short": "Se",
+      "temp_max": 24,
+      "temp_min": 13,
+      "precipitation": 0.3,
+      "wind_speed": 13.2,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "🌤️",
+        "color": "#6EE7B7",
+        "bg": "#0f3d2a",
+        "grad": "linear-gradient(135deg, #0f3d2a, #0a2a1c)"
+      }
+    },
+    {
+      "date": "08.04",
+      "full_date": "08.04.2026",
+      "weekday": "Chorshanba",
+      "weekday_short": "Ch",
+      "temp_max": 17,
+      "temp_min": 12,
+      "precipitation": 11.6,
+      "wind_speed": 21.9,
+      "condition": {
+        "name": "Kuchli yomg'ir",
+        "icon": "🌧️",
+        "color": "#60A5FA",
+        "bg": "#1e3a5f",
+        "grad": "linear-gradient(135deg, #1a3a5c, #0f2540)"
+      }
+    },
+    {
+      "date": "09.04",
+      "full_date": "09.04.2026",
+      "weekday": "Payshanba",
+      "weekday_short": "Pa",
+      "temp_max": 13,
+      "temp_min": 10,
+      "precipitation": 9.8,
+      "wind_speed": 10.3,
+      "condition": {
+        "name": "Kuchli yomg'ir",
+        "icon": "🌧️",
+        "color": "#60A5FA",
+        "bg": "#1e3a5f",
+        "grad": "linear-gradient(135deg, #1a3a5c, #0f2540)"
+      }
+    },
+    {
+      "date": "10.04",
+      "full_date": "10.04.2026",
+      "weekday": "Juma",
+      "weekday_short": "Ju",
+      "temp_max": 21,
+      "temp_min": 8,
+      "precipitation": 0.0,
+      "wind_speed": 7.5,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "🌤️",
+        "color": "#6EE7B7",
+        "bg": "#0f3d2a",
+        "grad": "linear-gradient(135deg, #0f3d2a, #0a2a1c)"
+      }
+    },
+    {
+      "date": "11.04",
+      "full_date": "11.04.2026",
+      "weekday": "Shanba",
+      "weekday_short": "Sh",
+      "temp_max": 24,
+      "temp_min": 9,
+      "precipitation": 0.0,
+      "wind_speed": 12.7,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "🌤️",
+        "color": "#6EE7B7",
+        "bg": "#0f3d2a",
+        "grad": "linear-gradient(135deg, #0f3d2a, #0a2a1c)"
+      }
+    },
+    {
+      "date": "12.04",
+      "full_date": "12.04.2026",
+      "weekday": "Yakshanba",
+      "weekday_short": "Ya",
+      "temp_max": 23,
+      "temp_min": 11,
+      "precipitation": 0.0,
+      "wind_speed": 8.1,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "🌤️",
+        "color": "#6EE7B7",
+        "bg": "#0f3d2a",
+        "grad": "linear-gradient(135deg, #0f3d2a, #0a2a1c)"
+      }
+    },
+    {
+      "date": "13.04",
+      "full_date": "13.04.2026",
+      "weekday": "Dushanba",
+      "weekday_short": "Du",
+      "temp_max": 24,
+      "temp_min": 12,
+      "precipitation": 0.0,
+      "wind_speed": 10.2,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "🌤️",
+        "color": "#6EE7B7",
+        "bg": "#0f3d2a",
+        "grad": "linear-gradient(135deg, #0f3d2a, #0a2a1c)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "city": "Buxoro",
+  "city_key": "buxoro",
+  "date": "2026-04-06 15:48:58",
+  "forecast_days": 7,
+  "forecast": [
+    {
+      "date": "07.04",
+      "full_date": "07.04.2026",
+      "weekday": "Seshanba",
+      "weekday_short": "Se",
+      "temp_max": 20,
+      "temp_min": 14,
+      "precipitation": 1.0,
+      "wind_speed": 14.3,
+      "condition": {
+        "name": "Yengil yomg'ir",
+        "icon": "☔",
+        "color": "#5C9BD5",
+        "bg": "#F5F8FA"
+      }
+    },
+    {
+      "date": "08.04",
+      "full_date": "08.04.2026",
+      "weekday": "Chorshanba",
+      "weekday_short": "Ch",
+      "temp_max": 17,
+      "temp_min": 13,
+      "precipitation": 0.4,
+      "wind_speed": 10.8,
+      "condition": {
+        "name": "Bulutli",
+        "icon": "☁️",
+        "color": "#64748B",
+        "bg": "#F0F2F5"
+      }
+    },
+    {
+      "date": "09.04",
+      "full_date": "09.04.2026",
+      "weekday": "Payshanba",
+      "weekday_short": "Pa",
+      "temp_max": 17,
+      "temp_min": 12,
+      "precipitation": 2.0,
+      "wind_speed": 15.5,
+      "condition": {
+        "name": "Yengil yomg'ir",
+        "icon": "☔",
+        "color": "#5C9BD5",
+        "bg": "#F5F8FA"
+      }
+    },
+    {
+      "date": "10.04",
+      "full_date": "10.04.2026",
+      "weekday": "Juma",
+      "weekday_short": "Ju",
+      "temp_max": 23,
+      "temp_min": 12,
+      "precipitation": 0.0,
+      "wind_speed": 12.4,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "⛅",
+        "color": "#6B7280",
+        "bg": "#F8F9FA"
+      }
+    },
+    {
+      "date": "11.04",
+      "full_date": "11.04.2026",
+      "weekday": "Shanba",
+      "weekday_short": "Sh",
+      "temp_max": 22,
+      "temp_min": 13,
+      "precipitation": 2.4,
+      "wind_speed": 11.6,
+      "condition": {
+        "name": "Yomg'ir",
+        "icon": "🌦️",
+        "color": "#357ABD",
+        "bg": "#F0F5FA"
+      }
+    },
+    {
+      "date": "12.04",
+      "full_date": "12.04.2026",
+      "weekday": "Yakshanba",
+      "weekday_short": "Ya",
+      "temp_max": 23,
+      "temp_min": 13,
+      "precipitation": 0.0,
+      "wind_speed": 8.4,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "⛅",
+        "color": "#6B7280",
+        "bg": "#F8F9FA"
+      }
+    },
+    {
+      "date": "13.04",
+      "full_date": "13.04.2026",
+      "weekday": "Dushanba",
+      "weekday_short": "Du",
+      "temp_max": 24,
+      "temp_min": 15,
+      "precipitation": 0.0,
+      "wind_speed": 10.0,
+      "condition": {
+        "name": "Ochiq",
+        "icon": "⛅",
+        "color": "#6B7280",
+        "bg": "#F8F9FA"
+      }
+    }
+  ]
+}
