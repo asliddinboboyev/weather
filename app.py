@@ -1263,9 +1263,14 @@ def run_bot():
 
     app_bot.run_polling()
 
-if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 5000))
+import os
 
+# ... kodingizning qolgan qismi ...
+
+if __name__ == "__main__":
+    # Railway o'zi PORT degan o'zgaruvchi beradi, shuni olamiz
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
     # botni alohida threadda ishga tushiramiz
     threading.Thread(target=run_bot, daemon=True).start()
 
